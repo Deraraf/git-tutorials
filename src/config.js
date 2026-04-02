@@ -1,2 +1,2 @@
-console.log("Hello World!");
-console.log("Hello World2!");
+console.log("version 12 updated!");
+
